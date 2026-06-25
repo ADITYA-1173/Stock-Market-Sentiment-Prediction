@@ -12,7 +12,7 @@ bugs found and fixed before reporting any result.
 
 \## Live demo (Streamlit)
 
-\[Add your Streamlit Cloud link here after deploying]
+\https://stock-market-sentiment-prediction-8bjulbx8eweqpzpakuffmu.streamlit.app/
 
 
 
