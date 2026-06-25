@@ -8,19 +8,13 @@ https://stock-market-sentiment-prediction-8bjulbx8eweqpzpakuffmu.streamlit.app/
 
 ## Architecture
 
-Historical Tweets (3M+)
-↓
-Fine-tuned BERT
-↓
-Daily Sentiment Score per Stock
-↓
-Yahoo Finance OHLCV
-↓
-Feature Engineering (RSI, Volatility, Returns, Z-score, Gap)
-↓
-XGBoost Classifier
-↓
-SHAP Explainability + Streamlit Dashboard
+* **Historical Tweets (3M+)**
+* ↓ Fine-tuned BERT
+* ↓ Daily Sentiment Score per Stock
+* ↓ Yahoo Finance OHLCV
+* ↓ Feature Engineering (RSI, Volatility, Returns, Z-score, Gap)
+* ↓ XGBoost Classifier
+* ↓ **SHAP Explainability + Streamlit Dashboard**
 
 ## Results
 
