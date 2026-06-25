@@ -1,0 +1,48 @@
+{
+  "n_loaded": 68541,
+  "n_tickers_loaded": 3646,
+  "n_stale_removed": 15485,
+  "n_tickers_before_minhist": 3646,
+  "n_tickers_after_minhist": 647,
+  "n_train": 15557,
+  "n_test": 3109,
+  "n_tickers_test": 647,
+  "n_signals": 188,
+  "coverage_pct": 6.05,
+  "accuracy": 0.5798,
+  "precision": 0.6154,
+  "recall": 0.6214,
+  "f1": 0.6184,
+  "roc_auc": 0.5212,
+  "cm": [
+    [
+      45,
+      40
+    ],
+    [
+      39,
+      64
+    ]
+  ],
+  "importance": {
+    "sent_zscore": 5.8593,
+    "sent_ma_3": 6.1968,
+    "returns": 8.3981,
+    "volatility": 7.0959,
+    "rsi": 7.4023,
+    "gap_days": 8.4613
+  },
+  "date_min": "2020-05-04",
+  "date_max": "2022-09-27",
+  "dataset_date_min": "2015-01-06",
+  "dataset_date_max": "2022-09-27",
+  "features": [
+    "sent_zscore",
+    "sent_ma_3",
+    "returns",
+    "volatility",
+    "rsi",
+    "gap_days"
+  ],
+  "shap_base_value": 0.16123145818710327
+}

@@ -1,0 +1,22 @@
+# Large data files — too big for GitHub
+Company_Tweets (2021-22).csv
+stock-market-tweets-data (2020).csv
+Merged_Company_Tweets (2015-20).csv
+
+# Large model weights — host on HuggingFace instead
+BERT_Finetuned_gpu/model.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
